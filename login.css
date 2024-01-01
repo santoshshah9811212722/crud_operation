@@ -1,0 +1,102 @@
+/* .eye{
+    width: 50px;
+    margin-left: 255px;
+    padding-bottom: 5px;
+    background-color: red;
+} */
+.form{
+    background-color: red;
+    text-align: center;
+    margin-left: 35%; 
+    margin-top: 20%;
+    margin-right: 35%;
+}
+.button{
+    width: 55px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 80px;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* for next page.html  css properties is in downparts*/
+
+.new_student{
+    
+    font-size: 40px;
+    text-align: center;
+    background-color: red;
+}
+.forall{
+    background-color: yellow;
+    margin:400px;
+    text-align: center;
+}
+
+/* for new_addmissionform css properties */
+
+.addmissionform{
+    background-color: red;
+    text-align: center;
+    width: 300px;
+    margin-block-start: 300px;
+  
+}
+.submit{
+background-color: yellow;
+width: 105px;
+height: 45px;
+}
+
+/* read.phphtmlcontent css properties  */
+.head{
+    background-color: green;
+    color: rgb(247, 246, 246);
+    text-align: center;
+    font-size: 55px;
+}
+
+.table{
+    background-color: red;
+    padding-left: 105px;
+    border: 5px;
+}
+
+
+/* this is for connect.php */
+.congrates{
+    background-color: green;
+    margin-top: 300px;
+    /* margin: 100px; */
+    width: fit-content;
+    margin-left: 650px;
+    /* padding-left: 5px; */
+    padding: 20px;
+    text-align: center;
+    }
+
+.view{
+        margin-top: 25px;
+        font-size: 35px;
+        background-color: blue;
+        border-radius: 5px;
+        border-width: 5px;
+        border-color: yellow;
+        
+    }
+
+    .congrates_size{
+        font-size: 35px;
+    }
+
+.add{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 918px;
+    background-color: green;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px ;
+}
